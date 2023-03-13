@@ -1,4 +1,6 @@
-# Cach build docker
+# Cách build docker
+
+## cách 1
 
 - Dùng lệnh sau để build dockerfile
 
