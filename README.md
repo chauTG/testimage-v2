@@ -8,7 +8,11 @@
 docker build -t
 docker images
 ```
-
+```bash
+yarn --frozen-lockfile
+yarn build
+yarn start:prod
+```
 ## Nội dung file docker
 
 ```yml
