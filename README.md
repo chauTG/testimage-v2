@@ -2,7 +2,7 @@
 
 ## cách 1
 
-- Dùng lệnh sau để build dockerfile
+**Dùng lệnh sau để build dockerfile**
 
 ```bash
 docker build -t
