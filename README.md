@@ -4,4 +4,5 @@
 
 ```bash
 docker build -t
+docker images
 ```
